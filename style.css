@@ -1,0 +1,13 @@
+body {
+	padding: 100px;
+}
+
+ .block {
+ 	background: url(img/bali.jpg) center no-repeat;
+	height: 230px;
+	border-radius: 15px;
+    box-shadow: 0 0 10px #000;
+}
+    
+    
+
